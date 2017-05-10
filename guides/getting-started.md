@@ -6,7 +6,7 @@ For existing apps, follow these steps to begin using Angular Material.
 ## Step 1: Install Angular Material
 
 ```bash
-npm install --save @angular/material
+npm install --save "@angular/material"
 ```
 
 ## Step 2: Animations
